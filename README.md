@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="https://blog.naver.com/codingramen" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
+
 ![Gichan's GitHub stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true&theme=radical)
