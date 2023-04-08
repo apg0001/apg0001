@@ -33,5 +33,8 @@ Here are some ideas to get you started:
 
 <div align="center">
 ![Gichan's github stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true)
+</div>
+
+<div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)
 </div>
