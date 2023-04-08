@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 <a href="https://blog.naver.com/codingramen" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=apg0001)](https://solved.ac/apg0001)
+
 ![Gichan's GitHub stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true&theme=radical)
