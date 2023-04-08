@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=pgmjun&show_icons=true)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chltmdwns96)](https://solved.ac/chltmdwns96/)
+![gichan's github stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)
     
 </div>
