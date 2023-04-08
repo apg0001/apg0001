@@ -40,3 +40,10 @@ Here are some ideas to get you started:
 <div align="center">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)
 </div>
+
+<div align="center">
+
+![PgmJun's github stats](https://github-readme-stats.vercel.app/api?username=pgmjun&show_icons=true)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chltmdwns96)](https://solved.ac/chltmdwns96/)
+    
+</div>
