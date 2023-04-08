@@ -29,7 +29,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
+<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)
+</div>
 
 <div align="center">
 ![Gichan's github stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true)
