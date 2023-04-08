@@ -21,6 +21,8 @@ Here are some ideas to get you started:
     💡Language <br>
     <img src="https://img.shields.io/badge/c-6DB33F?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/cplusplus-6DB33F?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/python-6DB33F?style=for-the-badge&logo=python&logoColor=white">
+    
 </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=apg0001)](https://solved.ac/apg0001)
