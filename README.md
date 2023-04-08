@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)
 
+<p align="center" display="inline_block">
 ![Gichan's github stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)
+</p>
