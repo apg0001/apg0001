@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 
 <div align="center">
     
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)
+![gichan's github stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true)
     
 </div>
 
 <div align="center">
 
-![gichan's github stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)
     
 </div>
