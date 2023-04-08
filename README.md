@@ -19,14 +19,18 @@ Here are some ideas to get you started:
 
 <p align="center" display="inline-block">
     💡Language <br>
-    <img src="https://img.shields.io/badge/c-6DB33F?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/cplusplus-6DB33F?style=for-the-badge&logo=cplusplus&logoColor=white">
-    <img src="https://img.shields.io/badge/python-6DB33F?style=for-the-badge&logo=python&logoColor=white">
-    
+    <img src="https://img.shields.io/badge/c-3776AB?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/cplusplus-3776AB?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=apg0001)](https://solved.ac/apg0001)
+<p align="Cowork Tools" display="inline-block">
+    💡Language <br>
+    <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true&theme=react)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)
+
+![Gichan's github stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)
