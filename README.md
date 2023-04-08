@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 <a href="https://blog.naver.com/codingramen" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
 
+<p align="center" display="inline-block">
+    💡Language <br>
+    <img src="https://img.shields.io/badge/cplusplus-6DB33F?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white">
+</p>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=apg0001)](https://solved.ac/apg0001)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true&theme=react)
