@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 <p align="center" display="inline-block">
     💡Language <br>
-    <img src="https://img.shields.io/badge/c-3776AB?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/cplusplus-3776AB?style=for-the-badge&logo=cplusplus&logoColor=white">
+    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center" display="inline-block">
     💡Cowork Tools <br>
-    <img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 <div align="center">
