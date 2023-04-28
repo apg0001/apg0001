@@ -26,7 +26,14 @@ Here are some ideas to get you started:
 
 <p align="center" display="inline-block">
     💡Tools <br>
-    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=github&logoColor=white">
+</p>
+
+<p align="center" display="inline-block">
+    💡Web Language <br>
+    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
 <p align="center" display="inline-block">
