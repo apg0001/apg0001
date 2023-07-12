@@ -54,4 +54,8 @@ Here are some ideas to get you started:
     
 </div>
 
+<div>
+
 ![](./profile-3d-contrib/profile-green-animate.svg)
+    
+</div>
