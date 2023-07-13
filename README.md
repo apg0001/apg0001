@@ -56,6 +56,6 @@ Here are some ideas to get you started:
 
 <div>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![3D GLASS](./profile-3d-contrib/profile-green-animate.svg)
     
 </div>
