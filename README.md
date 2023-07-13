@@ -41,6 +41,12 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
+<div>
+
+![3D GLASS](./profile-3d-contrib/profile-green-animate.svg)
+    
+</div>
+
 <div align="center">
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)    
@@ -54,8 +60,3 @@ Here are some ideas to get you started:
     
 </div>
 
-<div>
-
-![3D GLASS](./profile-3d-contrib/profile-green-animate.svg)
-    
-</div>
