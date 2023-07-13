@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Gichan&nbsp;Park&fontSize=90" />
+</div>
 <a href="https://blog.naver.com/codingramen" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 <p align="center" display="inline-block">
