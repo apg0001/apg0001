@@ -17,7 +17,8 @@ Here are some ideas to get you started:
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Gichan&nbsp;Park&fontSize=90" />
 </div>
-<a href="https://blog.naver.com/codingramen" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://blog.naver.com/codingramen" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/>
+</a><a href="[https://blog.naver.com/codingramen](https://www.instagram.com/x._.channn01/)" target="_blank"><img src="https://img.shields.io/badge/instagram-282828?style=flat-square&logo=instagram&logoColor=white"/></a>
 
 <p align="center" display="inline-block">
     💡Language <br>
@@ -28,14 +29,14 @@ Here are some ideas to get you started:
 
 <p align="center" display="inline-block">
     💡Web Language <br>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
 
 <p align="center" display="inline-block">
     💡Tools <br>
-    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
 </p>
 
 <p align="center" display="inline-block">
