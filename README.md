@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <!-- 백준 티어 -->
 <div align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)        
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)   
 </div>
 
 <!-- 깃헙 정보 -->
