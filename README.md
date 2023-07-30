@@ -53,17 +53,11 @@ Here are some ideas to get you started:
 </p>
 
 <!-- 백준 티어 -->
-<div align="center">
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)   
-</div>
 
 <!-- 깃헙 정보 -->
-<div align="center">
 ![gichan's github stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)    
-</div>
 
 <!-- 3D 잔디 -->
-<div>
 ![3D GLASS](./profile-3d-contrib/profile-green-animate.svg)    
-</div>
