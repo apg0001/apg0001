@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- 프로그래밍 언어 -->
 <p align="center" display="inline-block">
-    💡Language <br>
+    💡Programming Language <br>
     <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -42,7 +42,15 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
 </p>
 
-<!-- 툴? 기술? -->
+<!-- 프레임워크 -->
+<p align="center" display="inline-block">
+    💡Framework <br>
+    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+</p>
+
+<!-- 개발환경 -->
 <p align="center" display="inline-block">
     💡IDE <br>
     <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
@@ -54,15 +62,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
     <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
 </p>
-
-<!-- 프레임워크 -->
-<p align="center" display="inline-block">
-    💡IDE <br>
-    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-</p>
-
 
 <!-- 협업 툴 -->
 <p align="center" display="inline-block">
