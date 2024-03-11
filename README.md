@@ -54,7 +54,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
     <img src="https://img.shields.io/badge/rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white">
-    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </p>
 
 <!--
@@ -77,6 +76,7 @@ Here are some ideas to get you started:
 <p align="center" display="inline-block">
     💡Cowork Tools <br>
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </p>
 
 <!-- 백준 티어 -->
