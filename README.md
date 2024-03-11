@@ -52,6 +52,8 @@ Here are some ideas to get you started:
     💡Framework <br>
     <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
     <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+    <img src="https://img.shields.io/badge/rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white">
+    <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">
 </p>
 
 <!--
