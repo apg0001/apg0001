@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 -->
-<div align="center">
+<!-- <div align="center">
   <img src="./profile.jpg" width="200" height="200" style="border-radius: 50%;" />
-</div>
+</div> -->
 
 저는 **박기찬**입니다! 🌱  
 기술로 세상에 가치를 선물하는 개발자입니다.
