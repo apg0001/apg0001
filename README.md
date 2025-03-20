@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+저는 **박기찬**입니다! 🌱  
+도전하고 성장하는 개발자입니다.
+
+---
+
+<!-- 기존 프로그래밍 언어, 웹 언어, 프레임워크 섹션 그대로 유지 -->
+
+
+
 <!--
 **apg0001/apg0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -78,7 +87,35 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </p>
+---
 
+## 🏅 경력 & 활동
+
+| 기간 | 내용 |
+|-----------|-----------------------------|
+| 2021.1 ~ 2021.12 | 동국대학교 43대 공과대학 학생회 **엔돌핀** 기획국원 |
+| 2022.1 ~ 2022.12 | 동국대학교 30대 정보통신공학과 학생회 **Comma** 홍보국원 |
+| 2022.1 ~ 2022.12 | 동국대학교 31대 정보통신공학과 학생회 **Buddy** 홍보국원 |
+
+---
+
+## 👥 동아리 활동
+
+| 기간 | 내용 |
+|-----------|-----------------------------|
+| 2021.1 ~ 2021.7 | 동국대학교 공과대학 소모임 **CAPS 34기** 집행부 학술부원 |
+
+---
+
+## 🏆 수상 경력
+
+- **2024년 한이음 공모전**  
+  "LLM을 활용한 우울증 방지 챗봇" **입선**
+
+- **2025년 헐트프라이즈 온캠퍼스 경진대회 안영대학교**  
+  "적대적 공격을 활용한 딥페이크 방지" **최우수상**
+
+---
 <!-- 백준 티어 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)   
 
