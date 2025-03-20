@@ -87,6 +87,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
     <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </p>
+
 ---
 
 ## 🏅 경력 & 활동
@@ -116,6 +117,7 @@ Here are some ideas to get you started:
   "적대적 공격을 활용한 딥페이크 방지" **최우수상**
 
 ---
+
 <!-- 백준 티어 -->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)   
 
