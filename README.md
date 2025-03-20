@@ -1,7 +1,10 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+<div align="center">
+  <img src="./증명사진_박기찬.jpg" width="200" height="200" style="border-radius: 50%;" />
+</div>
 
 저는 **박기찬**입니다! 🌱  
-도전하고 성장하는 개발자입니다.
+기술로 세상에 가치를 선물하는 개발자입니다.
 
 ---
 
