@@ -1,6 +1,6 @@
 <!-- ### Hi there 👋 -->
 <div align="center">
-  <img src="./증명사진_박기찬.jpg" width="200" height="200" style="border-radius: 50%;" />
+  <img src="./profile.jpg" width="200" height="200" style="border-radius: 50%;" />
 </div>
 
 저는 **박기찬**입니다! 🌱  
