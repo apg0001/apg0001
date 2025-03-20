@@ -2,35 +2,15 @@
 <!-- <div align="center">
   <img src="./profile.jpg" width="200" height="200" style="border-radius: 50%;" />
 </div> -->
+<!-- 기찬 이름 로고 -->
+<div align=center>
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Gichan&nbsp;Park&fontSize=90" />
+</div>
 
 저는 **박기찬**입니다! 🌱  
 기술로 세상에 가치를 선물하는 개발자입니다.
 
 ---
-
-<!-- 기존 프로그래밍 언어, 웹 언어, 프레임워크 섹션 그대로 유지 -->
-
-
-
-<!--
-**apg0001/apg0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!-- 기찬 이름 로고 -->
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Gichan&nbsp;Park&fontSize=90" />
-</div>
 
 <!-- 링크 -->
 <a href="https://blog.naver.com/codingramen" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
