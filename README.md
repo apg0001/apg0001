@@ -24,9 +24,9 @@
     <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <br>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+    <!--<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
     <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
-    <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">
+    <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">-->
 </p>
 
 <!-- 웬 프로그래밍 언어 -->
