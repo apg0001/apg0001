@@ -1,10 +1,5 @@
-<!-- ### Hi there 👋 -->
-<!-- <div align="center">
-  <img src="./profile.jpg" width="200" height="200" style="border-radius: 50%;" />
-</div> -->
-<!-- 기찬 이름 로고 -->
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=Gichan&nbsp;Park&fontSize=90" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Gichan%20Park&fontSize=60&fontAlignY=40&animation=twinkling" />
 </div>
 
 저는 **박기찬**입니다! 🌱  
@@ -12,101 +7,82 @@
 
 ---
 
-<!-- 링크 -->
-<a href="https://blog.naver.com/codingramen" target="_blank"><img src="https://img.shields.io/badge/BLOG-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
-<a href="[https://blog.naver.com/codingramen](https://www.instagram.com/x._.channn01/)" target="_blank"><img src="https://img.shields.io/badge/instagram-282828?style=flat-square&logo=instagram&logoColor=white"/></a>
-
-<!-- 프로그래밍 언어 -->
-<p align="center" display="inline-block">
-    💡Programming Language <br>
-    <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-    <img src="https://img.shields.io/badge/cplusplus-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-    <br>
-    <!--<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-    <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
-    <img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=r&logoColor=white">-->
-</p>
-
-<!-- 웬 프로그래밍 언어 -->
-<p align="center" display="inline-block">
-    💡Web Language <br>
-    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-</p>
-
-<!-- 프레임워크 -->
-<p align="center" display="inline-block">
-    💡Framework <br>
-    <img src="https://img.shields.io/badge/tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-    <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-    <img src="https://img.shields.io/badge/rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white">
-</p>
-
-<!--
-개발환경
-<p align="center" display="inline-block">
-    💡IDE <br>
-    <img src="https://img.shields.io/badge/visualstudio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white">
-    <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-    <img src="https://img.shields.io/badge/pycharm-000000?style=for-the-badge&logo=pycharm&logoColor=white">
-    <img src="https://img.shields.io/badge/intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-    <br>
-    <img src="https://img.shields.io/badge/androidstudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
-    <img src="https://img.shields.io/badge/xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white">
-    <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-    <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
-</p>
--->
-
-<!-- 협업 툴 -->
-<p align="center" display="inline-block">
-    💡Cowork Tools <br>
-    <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-</p>
+## 📱 **Connect**
+<a href="https://blog.naver.com/codingramen" target="_blank"><img src="https://img.shields.io/badge/Blog-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.instagram.com/x._.channn01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-282828?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="https://solved.ac/apg0001/" target="_blank"><img src="https://img.shields.io/badge/Solved.ac-282828?style=flat-square&logo=solvedac&logoColor=white"/></a>
+<a href="https://github.com/apg0001" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 
 ---
 
-## 🏅 경력 & 활동
+## 🛠️ **Tech Stack**
 
-| 기간 | 내용 |
-|-----------|-----------------------------|
-| 2021.1 ~ 2021.12 | 동국대학교 43대 공과대학 학생회 **엔돌핀** 기획국원 |
-| 2022.1 ~ 2022.12 | 동국대학교 30대 정보통신공학과 학생회 **Comma** 홍보국원 |
-| 2023.1 ~ 2023.12 | 동국대학교 31대 정보통신공학과 학생회 **Buddy** 홍보국원 |
+### 🎯 **Languages**
+<div align="center">
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+</div>
+
+### 🌐 **Web & Frameworks**
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+</div>
+
+### 🤖 **ML / AI**
+<div align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white" alt="Rasa" />
+</div>
+
+### ⚙️ **Tools**
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+</div>
 
 ---
 
-## 👥 동아리 활동
+## 🏢 **경력**
 
-| 기간 | 내용 |
-|-----------|-----------------------------|
-| 2021.1 ~ 2021.7 | 동국대학교 공과대학 소모임 **CAPS 34기** 집행부 학술부원 |
-
----
-
-## 🏆 수상 경력
-
-- **2024년 한이음 공모전**  
-  "LLM을 활용한 우울증 방지 챗봇" **입선**
-
-- **2025년 헐트프라이즈 온캠퍼스 경진대회 안양대학교**  
-  "적대적 공격을 활용한 딥페이크 방지" **최우수상**
+| 기간 | 직함 | 회사/활동 |
+|------|------|-----------|
+| **2025.08 ~ 2026.02** | **서버 개발자** | **트루엔** |
+| 2021.01 ~ 2021.12 | 기획국원 | 동국대학교 43대 공과대학 학생회 **엔돌핀** |
+| 2022.01 ~ 2022.12 | 홍보국원 | 동국대학교 30대 정보통신공학과 학생회 **Comma** |
+| 2023.01 ~ 2023.12 | 홍보국원 | 동국대학교 31대 정보통신공학과 학생회 **Buddy** |
 
 ---
 
-<!-- 백준 티어 -->
+## 👥 **동아리 활동**
+
+| 기간 | 활동 |
+|------|------|
+| 2021.01 ~ 2021.07 | 동국대학교 공과대학 소모임 **CAPS 34기** 집행부 학술부원 |
+| **2025.03 ~ 2025.12** | **구름톤 유니브 동국대 4기** **미르미** |
+
+---
+
+## 🏆 **수상 경력**
+
+| 연도 | 대회 | 프로젝트 | 성과 |
+|------|------|-----------|------|
+| **2025** | **NEXUS 연한 프로젝트** | **TruthAI** | **2등** |
+| 2025 | 헐트프라이즈 온캠퍼스 경진대회 | 적대적 공격을 활용한 딥페이크 방지 | **최우수상** |
+| 2024 | 한이음 공모전 | LLM을 활용한 우울증 방지 챗봇 | **입선** |
+
+---
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)   
 
-<!-- 깃헙 정보 -->
 ![gichan's github stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)    
-
-<!-- 3D 잔디 -->
-![3D GLASS](./profile-3d-contrib/profile-green-animate.svg)    
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)
