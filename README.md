@@ -105,13 +105,18 @@
 
 ---
 
-
-<p align="center">
+<div align=center>
+  
   [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)   
+</div>
+
+<div align=center>
   
-  ![gichan's github stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true&theme=onedark)
+  <img src="https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true&theme=onedark">
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark">
+  
+</div>
+
 
 
