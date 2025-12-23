@@ -106,7 +106,11 @@
 ---
 
 <div align="center">
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)   
+  ![gichan's github stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)
   [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)
   <br>
-  ![Stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true&theme=onedark) ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)
+  ![Stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true&theme=onedark)
+  ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)
 </div>
