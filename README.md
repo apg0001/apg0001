@@ -2,16 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Gichan%20Park&fontSize=60&fontAlignY=40&animation=twinkling" />
 </div>
 
+![Visitors](https://komarev.com/ghpvc/?username=apg0001&color=green)
+
 저는 **박기찬**입니다! 🌱  
 기술로 세상에 가치를 선물하는 개발자입니다.
 
 ---
 
 ## 📱 **Connect**
-<a href="https://blog.naver.com/codingramen" target="_blank"><img src="https://img.shields.io/badge/Blog-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
 <a href="https://www.instagram.com/x._.channn01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-282828?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://solved.ac/apg0001/" target="_blank"><img src="https://img.shields.io/badge/Solved.ac-282828?style=flat-square&logo=solvedac&logoColor=white"/></a>
 <a href="https://github.com/apg0001" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://velog.io/@apg0001" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="https://blog.naver.com/codingramen" target="_blank"><img src="https://img.shields.io/badge/Blog-282828?style=flat-square&logo=Notion&logoColor=white"/></a>
 
 ---
 
@@ -33,15 +36,18 @@
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
 </div>
 
 ### 🤖 **ML / AI**
 <div align="center">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/scikitlearn-20232a.svg?style=for-the-badge&logo=scikitlearn&logoColor=#F7931E" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/opencv-20232a.svg?style=for-the-badge&logo=opencv&logoColor=#5C3EE8" alt="OpenCV" />
   <img src="https://img.shields.io/badge/Rasa-5A17EE?style=for-the-badge&logo=rasa&logoColor=white" alt="Rasa" />
   <img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
 </div>
@@ -99,7 +105,8 @@
 
 ---
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)   
-
-![gichan's github stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)
+<div align="center">
+[![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)
+<br>
+![Stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true&theme=onedark) ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)
+</div>
