@@ -124,6 +124,7 @@
 <div align=center>
   
   [![Solved.ac Profile](https://mazassumnida.wtf/api/v2/generate_badge?boj=apg0001)](https://solved.ac/apg0001/)   
+  
 </div>
 
 <div align=center>
@@ -134,5 +135,13 @@
   
 </div>
 
+<!-- <br/>
+
+<div align="center">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apg0001&theme=minimal&hide_border=true&bg_color=ffffff&color=2F80ED&line=2F80ED&point=FF6B6B&area=true&area_color=E3F2FD" alt="Contribution Graph" />
+  
+</div>
 
 
+ -->
