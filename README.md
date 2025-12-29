@@ -129,12 +129,12 @@
 
 <div align=center>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true&theme=onedark">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark">
+  ![gichan's github stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true&theme=onedark)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)
   
 </div>
-
+   
 <!-- <br/>
 
 <div align="center">
