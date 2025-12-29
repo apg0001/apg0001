@@ -129,9 +129,14 @@
 
 <div align=center>
   
-  ![gichan's github stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true&theme=onedark)
+  <!--![gichan's github stats](https://github-readme-stats.vercel.app/api?username=apg0001&show_icons=true&theme=onedark)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apg0001&layout=compact&theme=onedark)-->
+
+  ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apg0001&theme=default)
+  </br>
+  ![Top Langs Repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apg0001&theme=default)
+  ![Top Langs Commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apg0001&theme=default)
   
 </div>
    
